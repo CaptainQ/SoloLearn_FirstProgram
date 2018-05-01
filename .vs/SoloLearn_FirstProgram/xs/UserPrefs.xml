@@ -1,22 +1,8 @@
-﻿<Properties StartupConfiguration="{57B4478A-0FE0-4789-B756-8AEDE21C7F5E}|Default">
+﻿<Properties StartupConfiguration="{B9633FF3-1431-4F79-A3AC-526B1C03ED39}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="BasicProject/BasicProgram.cs">
     <Files>
       <File FileName="BasicProject/BasicProgram.cs" Line="34" Column="59" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="SoloLearn_FirstProgram" expanded="True">
-            <Node name="ArraysStringsProject" expanded="True" />
-            <Node name="BasicProject" expanded="True">
-              <Node name="BasicProgram.cs" selected="True" />
-            </Node>
-            <Node name="ClassesAndObjects" expanded="True" />
-            <Node name="Methods" expanded="True" />
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
@@ -25,6 +11,6 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.ArraysStringsProject PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.BasicProject FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.BasicProject PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Methods PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

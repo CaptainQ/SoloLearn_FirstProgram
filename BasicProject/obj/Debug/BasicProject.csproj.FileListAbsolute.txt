@@ -1,5 +1,10 @@
-C:\Users\allkn\source\repos\SoloLearn_FirstProgram\BasicProject\bin\Debug\BasicProject.exe
-C:\Users\allkn\source\repos\SoloLearn_FirstProgram\BasicProject\bin\Debug\BasicProject.pdb
-C:\Users\allkn\source\repos\SoloLearn_FirstProgram\BasicProject\obj\Debug\BasicProject.csproj.CoreCompileInputs.cache
-C:\Users\allkn\source\repos\SoloLearn_FirstProgram\BasicProject\obj\Debug\BasicProject.exe
-C:\Users\allkn\source\repos\SoloLearn_FirstProgram\BasicProject\obj\Debug\BasicProject.pdb
+C:/Users/allkn/source/repos/SoloLearn_FirstProgram/BasicProject/bin/Debug/BasicProject.exe
+C:/Users/allkn/source/repos/SoloLearn_FirstProgram/BasicProject/bin/Debug/BasicProject.pdb
+C:/Users/allkn/source/repos/SoloLearn_FirstProgram/BasicProject/obj/Debug/BasicProject.csproj.CoreCompileInputs.cache
+C:/Users/allkn/source/repos/SoloLearn_FirstProgram/BasicProject/obj/Debug/BasicProject.exe
+C:/Users/allkn/source/repos/SoloLearn_FirstProgram/BasicProject/obj/Debug/BasicProject.pdb
+/Users/patrickmccaffrey/Documents/Learning to code/C#/SoloLearn_FirstProgram/BasicProject/bin/Debug/BasicProject.exe
+/Users/patrickmccaffrey/Documents/Learning to code/C#/SoloLearn_FirstProgram/BasicProject/bin/Debug/BasicProject.pdb
+/Users/patrickmccaffrey/Documents/Learning to code/C#/SoloLearn_FirstProgram/BasicProject/obj/Debug/BasicProject.csproj.CoreCompileInputs.cache
+/Users/patrickmccaffrey/Documents/Learning to code/C#/SoloLearn_FirstProgram/BasicProject/obj/Debug/BasicProject.exe
+/Users/patrickmccaffrey/Documents/Learning to code/C#/SoloLearn_FirstProgram/BasicProject/obj/Debug/BasicProject.pdb
