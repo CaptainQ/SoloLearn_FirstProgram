@@ -1,0 +1,5 @@
+C:\Users\allkn\source\repos\SoloLearn_FirstProgram\BasicProject\bin\Debug\BasicProject.exe
+C:\Users\allkn\source\repos\SoloLearn_FirstProgram\BasicProject\bin\Debug\BasicProject.pdb
+C:\Users\allkn\source\repos\SoloLearn_FirstProgram\BasicProject\obj\Debug\BasicProject.csproj.CoreCompileInputs.cache
+C:\Users\allkn\source\repos\SoloLearn_FirstProgram\BasicProject\obj\Debug\BasicProject.exe
+C:\Users\allkn\source\repos\SoloLearn_FirstProgram\BasicProject\obj\Debug\BasicProject.pdb
