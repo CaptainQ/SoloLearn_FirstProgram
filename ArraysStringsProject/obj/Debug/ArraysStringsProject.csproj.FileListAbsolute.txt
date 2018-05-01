@@ -1,0 +1,7 @@
+C:\Users\allkn\source\repos\SoloLearn_FirstProgram\ArraysStringsProject\bin\Debug\ArraysStringsProject.exe.config
+C:\Users\allkn\source\repos\SoloLearn_FirstProgram\ArraysStringsProject\bin\Debug\ArraysStringsProject.exe
+C:\Users\allkn\source\repos\SoloLearn_FirstProgram\ArraysStringsProject\bin\Debug\ArraysStringsProject.pdb
+C:\Users\allkn\source\repos\SoloLearn_FirstProgram\ArraysStringsProject\obj\Debug\ArraysStringsProject.csprojResolveAssemblyReference.cache
+C:\Users\allkn\source\repos\SoloLearn_FirstProgram\ArraysStringsProject\obj\Debug\ArraysStringsProject.csproj.CoreCompileInputs.cache
+C:\Users\allkn\source\repos\SoloLearn_FirstProgram\ArraysStringsProject\obj\Debug\ArraysStringsProject.exe
+C:\Users\allkn\source\repos\SoloLearn_FirstProgram\ArraysStringsProject\obj\Debug\ArraysStringsProject.pdb

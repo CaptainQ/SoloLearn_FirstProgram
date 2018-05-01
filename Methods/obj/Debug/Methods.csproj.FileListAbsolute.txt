@@ -1,0 +1,7 @@
+C:\Users\allkn\source\repos\SoloLearn_FirstProgram\Methods\bin\Debug\Methods.exe.config
+C:\Users\allkn\source\repos\SoloLearn_FirstProgram\Methods\bin\Debug\Methods.exe
+C:\Users\allkn\source\repos\SoloLearn_FirstProgram\Methods\bin\Debug\Methods.pdb
+C:\Users\allkn\source\repos\SoloLearn_FirstProgram\Methods\obj\Debug\Methods.csprojResolveAssemblyReference.cache
+C:\Users\allkn\source\repos\SoloLearn_FirstProgram\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+C:\Users\allkn\source\repos\SoloLearn_FirstProgram\Methods\obj\Debug\Methods.exe
+C:\Users\allkn\source\repos\SoloLearn_FirstProgram\Methods\obj\Debug\Methods.pdb

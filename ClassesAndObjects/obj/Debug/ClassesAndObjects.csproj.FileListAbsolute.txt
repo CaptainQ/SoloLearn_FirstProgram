@@ -1,0 +1,7 @@
+C:\Users\allkn\source\repos\SoloLearn_FirstProgram\ClassesAndObjects\bin\Debug\ClassesAndObjects.exe.config
+C:\Users\allkn\source\repos\SoloLearn_FirstProgram\ClassesAndObjects\bin\Debug\ClassesAndObjects.exe
+C:\Users\allkn\source\repos\SoloLearn_FirstProgram\ClassesAndObjects\bin\Debug\ClassesAndObjects.pdb
+C:\Users\allkn\source\repos\SoloLearn_FirstProgram\ClassesAndObjects\obj\Debug\ClassesAndObjects.csprojResolveAssemblyReference.cache
+C:\Users\allkn\source\repos\SoloLearn_FirstProgram\ClassesAndObjects\obj\Debug\ClassesAndObjects.csproj.CoreCompileInputs.cache
+C:\Users\allkn\source\repos\SoloLearn_FirstProgram\ClassesAndObjects\obj\Debug\ClassesAndObjects.exe
+C:\Users\allkn\source\repos\SoloLearn_FirstProgram\ClassesAndObjects\obj\Debug\ClassesAndObjects.pdb
