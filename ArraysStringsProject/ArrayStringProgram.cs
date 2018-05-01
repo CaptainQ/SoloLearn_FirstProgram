@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ArraysStringsProject
 {
-    class Program
+    class ArrayStringProgram
     {
         static void Main(string[] args)
         {
