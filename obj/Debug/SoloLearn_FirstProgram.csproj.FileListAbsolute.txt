@@ -1,7 +1,0 @@
-C:\Users\allkn\source\repos\SoloLearn_FirstProgram\SoloLearn_FirstProgram\bin\Debug\SoloLearn_FirstProgram.exe.config
-C:\Users\allkn\source\repos\SoloLearn_FirstProgram\SoloLearn_FirstProgram\bin\Debug\SoloLearn_FirstProgram.exe
-C:\Users\allkn\source\repos\SoloLearn_FirstProgram\SoloLearn_FirstProgram\bin\Debug\SoloLearn_FirstProgram.pdb
-C:\Users\allkn\source\repos\SoloLearn_FirstProgram\SoloLearn_FirstProgram\obj\Debug\SoloLearn_FirstProgram.csprojResolveAssemblyReference.cache
-C:\Users\allkn\source\repos\SoloLearn_FirstProgram\SoloLearn_FirstProgram\obj\Debug\SoloLearn_FirstProgram.csproj.CoreCompileInputs.cache
-C:\Users\allkn\source\repos\SoloLearn_FirstProgram\SoloLearn_FirstProgram\obj\Debug\SoloLearn_FirstProgram.exe
-C:\Users\allkn\source\repos\SoloLearn_FirstProgram\SoloLearn_FirstProgram\obj\Debug\SoloLearn_FirstProgram.pdb

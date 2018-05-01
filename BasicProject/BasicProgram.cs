@@ -74,7 +74,7 @@ namespace SoloLearn_FirstProgram
              * Division         /      x / y
              * Modulus          %      x % y
              */
-            
+
             int a = 10;
             int b = 4;
             Console.WriteLine("{0} plus {1} equals {2}", a, b, a + b);
@@ -188,7 +188,7 @@ namespace SoloLearn_FirstProgram
             //break can also be used to stop loops
 
             int whileLoop = 1;
-            while(whileLoop < 6)
+            while (whileLoop < 6)
             {
                 Console.WriteLine(whileLoop);
                 whileLoop++;
