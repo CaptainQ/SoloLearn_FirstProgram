@@ -1,0 +1,7 @@
+C:\Users\allkn\source\repos\SoloLearn_FirstProgram\MoreOnClassesProject\bin\Debug\MoreOnClassesProject.exe.config
+C:\Users\allkn\source\repos\SoloLearn_FirstProgram\MoreOnClassesProject\bin\Debug\MoreOnClassesProject.exe
+C:\Users\allkn\source\repos\SoloLearn_FirstProgram\MoreOnClassesProject\bin\Debug\MoreOnClassesProject.pdb
+C:\Users\allkn\source\repos\SoloLearn_FirstProgram\MoreOnClassesProject\obj\Debug\MoreOnClassesProject.csprojResolveAssemblyReference.cache
+C:\Users\allkn\source\repos\SoloLearn_FirstProgram\MoreOnClassesProject\obj\Debug\MoreOnClassesProject.csproj.CoreCompileInputs.cache
+C:\Users\allkn\source\repos\SoloLearn_FirstProgram\MoreOnClassesProject\obj\Debug\MoreOnClassesProject.exe
+C:\Users\allkn\source\repos\SoloLearn_FirstProgram\MoreOnClassesProject\obj\Debug\MoreOnClassesProject.pdb
