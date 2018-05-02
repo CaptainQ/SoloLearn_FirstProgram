@@ -1,7 +1,7 @@
-﻿<Properties StartupConfiguration="{B9633FF3-1431-4F79-A3AC-526B1C03ED39}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="BasicProject/BasicProgram.cs">
+﻿<Properties StartupConfiguration="{200F1593-531D-4F11-B130-9DE5ECA89B3B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MoreOnClassesProject/MoreOnClassesProgram.cs">
     <Files>
-      <File FileName="BasicProject/BasicProgram.cs" Line="34" Column="59" />
+      <File FileName="MoreOnClassesProject/MoreOnClassesProgram.cs" Line="64" Column="36" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
@@ -9,6 +9,7 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MoreOnClassesProject PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.ArraysStringsProject PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.BasicProject PreferredExecutionTarget="MonoDevelop.Default" />

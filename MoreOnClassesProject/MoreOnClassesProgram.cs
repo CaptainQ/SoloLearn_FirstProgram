@@ -139,6 +139,7 @@ namespace MoreOnClassesProject
                 return res;
                 //This seems to instantiate a new Box object based on the addition of other objects.
                 //the overloaded operator checks for that specific operation of objects of that type and then does that operation.
+                //The object before the operator keyword defines what type of object to check for and return, in this case it checks for asigning instances of the Box class and return a new Box
             }
         }
     }
