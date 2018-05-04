@@ -1,0 +1,7 @@
+C:\Users\allkn\source\repos\SoloLearn_FirstProgram\InheritanceProject\bin\Debug\InheritanceProject.exe.config
+C:\Users\allkn\source\repos\SoloLearn_FirstProgram\InheritanceProject\bin\Debug\InheritanceProject.exe
+C:\Users\allkn\source\repos\SoloLearn_FirstProgram\InheritanceProject\bin\Debug\InheritanceProject.pdb
+C:\Users\allkn\source\repos\SoloLearn_FirstProgram\InheritanceProject\obj\Debug\InheritanceProject.csprojResolveAssemblyReference.cache
+C:\Users\allkn\source\repos\SoloLearn_FirstProgram\InheritanceProject\obj\Debug\InheritanceProject.csproj.CoreCompileInputs.cache
+C:\Users\allkn\source\repos\SoloLearn_FirstProgram\InheritanceProject\obj\Debug\InheritanceProject.exe
+C:\Users\allkn\source\repos\SoloLearn_FirstProgram\InheritanceProject\obj\Debug\InheritanceProject.pdb
