@@ -1,0 +1,7 @@
+C:\Users\allkn\source\repos\SoloLearn_FirstProgram\Generics\bin\Debug\Generics.exe.config
+C:\Users\allkn\source\repos\SoloLearn_FirstProgram\Generics\bin\Debug\Generics.exe
+C:\Users\allkn\source\repos\SoloLearn_FirstProgram\Generics\bin\Debug\Generics.pdb
+C:\Users\allkn\source\repos\SoloLearn_FirstProgram\Generics\obj\Debug\Generics.csprojResolveAssemblyReference.cache
+C:\Users\allkn\source\repos\SoloLearn_FirstProgram\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+C:\Users\allkn\source\repos\SoloLearn_FirstProgram\Generics\obj\Debug\Generics.exe
+C:\Users\allkn\source\repos\SoloLearn_FirstProgram\Generics\obj\Debug\Generics.pdb

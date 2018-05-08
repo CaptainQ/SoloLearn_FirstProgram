@@ -1,0 +1,7 @@
+C:\Users\allkn\source\repos\SoloLearn_FirstProgram\StrucsEnumsExceptionsFiles\bin\Debug\StrucsEnumsExceptionsFiles.exe.config
+C:\Users\allkn\source\repos\SoloLearn_FirstProgram\StrucsEnumsExceptionsFiles\bin\Debug\StrucsEnumsExceptionsFiles.exe
+C:\Users\allkn\source\repos\SoloLearn_FirstProgram\StrucsEnumsExceptionsFiles\bin\Debug\StrucsEnumsExceptionsFiles.pdb
+C:\Users\allkn\source\repos\SoloLearn_FirstProgram\StrucsEnumsExceptionsFiles\obj\Debug\StrucsEnumsExceptionsFiles.csprojResolveAssemblyReference.cache
+C:\Users\allkn\source\repos\SoloLearn_FirstProgram\StrucsEnumsExceptionsFiles\obj\Debug\StrucsEnumsExceptionsFiles.csproj.CoreCompileInputs.cache
+C:\Users\allkn\source\repos\SoloLearn_FirstProgram\StrucsEnumsExceptionsFiles\obj\Debug\StrucsEnumsExceptionsFiles.exe
+C:\Users\allkn\source\repos\SoloLearn_FirstProgram\StrucsEnumsExceptionsFiles\obj\Debug\StrucsEnumsExceptionsFiles.pdb

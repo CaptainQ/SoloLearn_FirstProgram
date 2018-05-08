@@ -5,6 +5,19 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace InheritanceProject
+    //Namespaces declare a scope that contains a set of related objects.
+    //A namespace is like a wrapper for a collection of classes and objects.
+    /* Namespaces can be reffered to directly, for example
+     * 
+     * System.Console.WriteLine("Hi");
+     * 
+     * is the same as
+     * 
+     * Using System;
+     * Console.WriteLine("Hi");
+     * 
+     * The Using line pulls the namespace into the build for use so that it doesnt have to be called specifically every time.
+     */
 {
     class InheritanceProgram
     {
@@ -119,5 +132,48 @@ namespace InheritanceProject
         {
             Console.WriteLine("Rect Draw");
         }
+    }
+
+    abstract class ShapeAb
+    {
+        public abstract void Draw();
+        //The keyword "Virtual" can be replaced with "Abstract" if the virtual method does not need to be defined in the base class. Abstract means the derived class must define the method itself.
+        //You cannot create objects of a class containing an abstract method so the class itself must also be given the keyword abstract.
+        //An abstract class is meant to be the base class of other classes.
+    }
+
+    public interface IShape
+    {
+        void Draw();
+        //An interface is a special type of abstract class that can ONLY contain abstract members (Unlike abstract classes which can contain traditional members alongside abstracts)
+        //Interface classes are always abstract and always public no matter what.
+        //All members of an interface are abstract as well.
+        //Interfaces can contain properties and methods but canNOT contain fields (Variables)
+    }
+
+    class ICircle : IShape
+    {
+        public void Draw()
+        {
+            Console.WriteLine("ICircle Draw");
+            //when a class implements an interface it must also implement, or define, all of its methods.
+            //Implementing an interface is slightly different than saying "Inheritting from" but they are done the same way. The reason to use interfaces is that a single class can implement multiple interfaces. Seperate interfaces with commas when creating the class
+            //class A : IShape, IAnimal, etc.
+        }
+    }
+
+    class Car
+    {
+        string name;
+        public Car(string nm)
+        {
+            name = nm;
+            Motor m = new Motor();
+            //Motor is nested within the class Car. Objects can contain other objects. when Car is instanciated it takes the name passed to it and saves it, and then creates a new isntance of Motor. The heap location for motor is (presumably) stored as a variable within the Heap for that instance of Car.
+        }
+    }
+    public class Motor
+    {
+        //Some stuff
     }
 }
